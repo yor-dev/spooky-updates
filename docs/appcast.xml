@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Spooky</title>
+        <item>
+            <title>0.1.22</title>
+            <pubDate>Tue, 26 May 2026 20:51:19 +0900</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yor-dev/spooky-updates/releases/download/v0.1.22/Spooky-0.1.22.zip" length="22056115" type="application/octet-stream" sparkle:edSignature="SDw7jqjqYlj/5v3IJxZm941quBya3LrUELU9WBnj5Y3sIGA5ESNUmMW+4SO5Y526rnyj7OmIB3qqi0k5lmzBDQ=="/>
+        </item>
+    </channel>
+</rss>
